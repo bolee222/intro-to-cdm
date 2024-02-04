@@ -3,6 +3,10 @@ title: Eleventy Hylia
 github: https://github.com/andybelldesign/hylia
 demo: https://hylia.website/
 author: Andy Bell
+
+
+year:
+  - y2024
 ssg:
   - Eleventy
 cms:

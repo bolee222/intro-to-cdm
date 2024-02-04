@@ -4,6 +4,8 @@ github: https://github.com/a-chacon/wind
 demo: https://wind-site-a-chacon-6a52e6cfd07a698368129fcdb6001ca6dc9154381681.gitlab.io/
 author: a-chacon
 date: 2023-11-1T00:00:00.000Z
+year:
+  - y2021
 ssg:
   - Jekyll
 cms:
