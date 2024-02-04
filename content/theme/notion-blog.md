@@ -4,6 +4,8 @@ github: https://github.com/ijjk/notion-blog
 demo: https://github.com/ijjk/notion-blog
 author: JJ Kasper
 date: 2022-04-06T00:00:00.000Z
+year:
+  - y2021
 ssg:
   - Next
 cms:

@@ -3,6 +3,8 @@ title: The Interesting Times
 github: https://github.com/ohduran/the-interesting-times
 demo: https://ohduran.github.io/the-interesting-times
 author: Alvaro Duran
+year:
+  - y2021
 ssg:
   - Jekyll
 cms:

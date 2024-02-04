@@ -4,6 +4,8 @@ github: https://github.com/michael-andreuzza/swissfolio
 demo: https://swissfolio.vercel.app/
 author: Lexington Themes
 date: 2023-06-07
+year:
+  - y2021  
 ssg:
   - Astro
 cms:

@@ -4,6 +4,9 @@ github: https://github.com/raniesantos/artisan-static
 author: raniesantos
 demo: https://artisanstatic.netlify.app/
 date: 2020-06-03T00:00:00.000Z
+
+year:
+  - y2021
 ssg:
   - Jigsaw
 cms:

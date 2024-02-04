@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Jamstack Themes"
+title = "Intro to CDM"
 theme = "jamstackthemes"
 paginate = 18
 summaryLength = 10
@@ -53,3 +53,8 @@ pygmentsUseClasses = true
 	name = "All Themes"
 	url = "/theme/"
     weight = 2
+
+[[menu.main]]
+	name = "Course"
+	url = "/course/"
+    weight = 4

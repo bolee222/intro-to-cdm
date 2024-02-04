@@ -4,6 +4,8 @@ github: https://github.com/shantanu-deshmukh/vhealth-gatsby
 demo: https://vhealth.openthemes.dev/
 author: Shantanu Deshmukh
 date: 2020-08-26T00:00:00.000Z
+year:
+  - y2021
 ssg:
   - Gatsby
 cms:

@@ -4,6 +4,8 @@ github: https://github.com/jkytoela/next-startd
 demo: https://next-startd.vercel.app/
 author: Jaakko Kytölä
 date: 2022-02-21T00:00:00.000Z
+year:
+  - y2021
 ssg:
   - Next
 cms:

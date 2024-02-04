@@ -3,6 +3,8 @@ title: Nextjs Tailwind CSS TypeScript Starter
 github: https://github.com/ixartz/Next-js-Boilerplate
 demo: https://creativedesignsguru.com/demo/Nextjs-Boilerplate/
 author: Ixartz
+year:
+  - y2021
 ssg:
   - Next
 cms:
