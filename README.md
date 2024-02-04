@@ -2,6 +2,14 @@
 
 A list of themes and starters for the Jamstack and static site generators. https://jamstackthemes.dev
 
+## 새로운 Taxonomy (필터)를 추가하고싶을 때 거쳐야하는 일
+1. content 폴더 밑에 새로운 폴더를 추가 (taxonomy의 이름으로)
+2. 그리고 config.toml에 taxonomy hierarchy 추가
+3. 각각 md 파일에 해당 taxonomy 파라미터를 추가
+4. filters.html에 해당 taxonomy filter를 노출시킴
+5. theme-card.html에 해당 taxonomy range를 추가
+
+
 ## Submit A Theme
 
 Anyone can submit an open-source theme by doing a pull request.
